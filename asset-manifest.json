@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alphanumeric-keypad/static/css/main.a87ae7eb.css",
+    "main.js": "/alphanumeric-keypad/static/js/main.825b17e9.js",
+    "static/js/453.185f7e0f.chunk.js": "/alphanumeric-keypad/static/js/453.185f7e0f.chunk.js",
+    "index.html": "/alphanumeric-keypad/index.html",
+    "main.a87ae7eb.css.map": "/alphanumeric-keypad/static/css/main.a87ae7eb.css.map",
+    "main.825b17e9.js.map": "/alphanumeric-keypad/static/js/main.825b17e9.js.map",
+    "453.185f7e0f.chunk.js.map": "/alphanumeric-keypad/static/js/453.185f7e0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a87ae7eb.css",
+    "static/js/main.825b17e9.js"
+  ]
+}
