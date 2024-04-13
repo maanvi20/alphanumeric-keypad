@@ -1,4 +1,5 @@
 # Alphanumeric Mobile Keypad in ReactJS
 
-![image](https://github.com/maanvi20/alphanumeric-keypad/assets/56293493/0da9f866-1a91-4ea9-b5d3-468d5784f079)
+![image](https://github.com/maanvi20/alphanumeric-keypad/assets/56293493/b7dc0afd-5aff-4079-82fb-744168cb1482)
+
 
